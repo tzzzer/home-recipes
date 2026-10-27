@@ -1,81 +1,81 @@
 {
- "name": "LibreTV 源合集（固定订阅·每日复检更新）",
- "version": 2,
- "sources": [
-  {
-   "name": "量子资源",
-   "url": "https://cj.lziapi.com/api.php/provide/vod"
-  },
-  {
-   "name": "光速资源",
-   "url": "https://api.guangsuapi.com/api.php/provide/vod"
-  },
-  {
-   "name": "最大资源",
-   "url": "https://www.zuidazy.co/api.php/provide/vod"
-  },
-  {
-   "name": "百度云资源",
-   "url": "https://api.apibdzy.com/api.php/provide/vod"
-  },
-  {
-   "name": "360资源",
-   "url": "https://360zy.com/api.php/provide/vod"
-  },
-  {
-   "name": "如意资源",
-   "url": "https://cj.rycjapi.com/api.php/provide/vod"
-  },
-  {
-   "name": "非凡资源",
-   "url": "http://cj.ffzyapi.com/api.php/provide/vod"
-  },
-  {
-   "name": "索尼资源",
-   "url": "https://suoniapi.com/api.php/provide/vod"
-  },
-  {
-   "name": "红牛资源",
-   "url": "https://hongniuzy2.com/api.php/provide/vod"
-  },
-  {
-   "name": "暴风资源",
-   "url": "https://bfzyapi.com/api.php/provide/vod"
-  },
-  {
-   "name": "猫眼资源",
-   "url": "https://api.maoyanapi.top/api.php/provide/vod"
-  },
-  {
-   "name": "ffzy5资源",
-   "url": "https://ffzy5.tv/api.php/provide/vod"
-  },
-  {
-   "name": "极速资源",
-   "url": "https://jszyapi.com/api.php/provide/vod"
-  },
-  {
-   "name": "360资源镜像",
-   "url": "https://360zyzz.com/api.php/provide/vod"
-  },
-  {
-   "name": "光速资源http镜像",
-   "url": "http://api.guangsuapi.com/api.php/provide/vod"
-  }
- ],
- "liveSources": [
-  {
-   "name": "优质直播精选（固定地址·每日复检更新）",
-   "url": "https://cdn.jsdelivr.net/gh/tzzzer/home-recipes@main/live.m3u"
-  },
-  {
-   "epg": "http://epg.51zmt.top:8000/e.xml",
-   "name": "直播电视-IPTV4（526频道·每6小时更新）",
-   "url": "https://live.zbds.top/tv/iptv4.m3u"
-  },
-  {
-   "name": "4K 直播专线（7频道·真4K实测）",
-   "url": "https://cdn.jsdelivr.net/gh/tzzzer/home-recipes@main/4k.m3u"
-  }
- ]
+  "name": "LibreTV 源合集（固定订阅·每日复检更新）",
+  "version": 2,
+  "sources": [
+    {
+      "name": "量子资源",
+      "url": "https://cj.lziapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "光速资源",
+      "url": "https://api.guangsuapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "最大资源",
+      "url": "https://www.zuidazy.co/api.php/provide/vod"
+    },
+    {
+      "name": "百度云资源",
+      "url": "https://api.apibdzy.com/api.php/provide/vod"
+    },
+    {
+      "name": "360资源",
+      "url": "https://360zy.com/api.php/provide/vod"
+    },
+    {
+      "name": "如意资源",
+      "url": "https://cj.rycjapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "非凡资源",
+      "url": "http://cj.ffzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "索尼资源",
+      "url": "https://suoniapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "红牛资源",
+      "url": "https://hongniuzy2.com/api.php/provide/vod"
+    },
+    {
+      "name": "暴风资源",
+      "url": "https://bfzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "猫眼资源",
+      "url": "https://api.maoyanapi.top/api.php/provide/vod"
+    },
+    {
+      "name": "ffzy5资源",
+      "url": "https://ffzy5.tv/api.php/provide/vod"
+    },
+    {
+      "name": "极速资源",
+      "url": "https://jszyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "360资源镜像",
+      "url": "https://360zyzz.com/api.php/provide/vod"
+    },
+    {
+      "name": "光速资源http镜像",
+      "url": "http://api.guangsuapi.com/api.php/provide/vod"
+    }
+  ],
+  "liveSources": [
+    {
+      "name": "优质直播精选（固定地址·每日复检更新）",
+      "url": "https://fastly.jsdelivr.net/gh/tzzzer/home-recipes@main/live.m3u"
+    },
+    {
+      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "name": "直播电视-IPTV4（526频道·每6小时更新）",
+      "url": "https://live.zbds.top/tv/iptv4.m3u"
+    },
+    {
+      "name": "4K 直播专线（6频道·真4K实测）",
+      "url": "https://fastly.jsdelivr.net/gh/tzzzer/home-recipes@main/4k.m3u"
+    }
+  ]
 }

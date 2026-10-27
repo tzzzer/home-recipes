@@ -67,15 +67,15 @@ http://74.91.26.218:82/live/cctv10hd.m3u8
 http://74.91.26.218:82/live/cctv11hd.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://i.imgur.com/c5SXW7i.png" group-title="慢线频道",CCTV14
 http://74.91.26.218:82/live/cctv14hd.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://tb.zbds.top/logo/CCTV17.png" group-title="慢线频道",CCTV17
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://tb.zbds.top/logo/CCTV17.png" group-title="待验证",CCTV17
 https://live.264788.xyz/channel/cctv17?streamid=f9c36f1e95b5b35eac89cc89583e7c0a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="CCTV文化精品" tvg-logo="https://tb.zbds.top/logo/CCTV文化精品.png" group-title="慢线频道",CCTV文化精品
+#EXTINF:-1 tvg-name="CCTV文化精品" tvg-logo="https://tb.zbds.top/logo/CCTV文化精品.png" group-title="待验证",CCTV文化精品
 https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e83efd845006277&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://tb.zbds.top/logo/四川卫视.png" group-title="慢线频道",四川卫视
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://tb.zbds.top/logo/四川卫视.png" group-title="待验证",四川卫视
 https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://tb.zbds.top/logo/陕西卫视.png" group-title="慢线频道",陕西卫视
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://tb.zbds.top/logo/陕西卫视.png" group-title="待验证",陕西卫视
 https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://tb.zbds.top/logo/宁夏卫视.png" group-title="慢线频道",宁夏卫视
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://tb.zbds.top/logo/宁夏卫视.png" group-title="待验证",宁夏卫视
 https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="待验证",CCTV4美洲
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8

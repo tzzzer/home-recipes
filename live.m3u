@@ -1143,8 +1143,8 @@ http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 #EXTINF:-1 tvg-id="ZhejiangInternationalChannel.cn@SD" tvg-logo="https://i.imgur.com/XOL1Hph.png" group-title="Undefined",Zhejiang International Channel
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
-#EXTINF:-1 tvg-id="XizangTVTibetan.cn@SD" tvg-logo="https://i.imgur.com/NtvfnVV.png" group-title="Undefined",Xizang TV Tibetan (720p) [Not 24/7]
-http://php.jdshipin.com:8880/xztv.php?id=zy
+#EXTINF:-1 tvg-id="XizangTVTibetan.cn@SD" tvg-logo="https://i.imgur.com/NtvfnVV.png" group-title="Undefined",Xizang TV Tibetan
+https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-id="山西卫视" tvg-logo="https://tb.zbds.top/logo/山西卫视.png" group-title="卫视频道", 山西卫视
 http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-id="10" tvg-logo="https://tb.zbds.top/logo/甘肃卫视.png" group-title="卫视频道", 甘肃卫视
@@ -1279,11 +1279,13 @@ https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/chunklist_w444601733_b1628000.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-id="吉林卫视" tvg-logo="https://tb.zbds.top/logo/吉林卫视.png" group-title="卫视频道", 吉林卫视
 http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="兵团五师双河新闻综合" tvg-id="兵团五师双河新闻综合" tvg-logo="https://tb.zbds.top/logo/兵团五师双河新闻综合.png" group-title="地方频道", 兵团五师双河新闻综合
-http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
-#EXTINF:-1 tvg-name="兵团五师双河影" tvg-id="兵团五师双河影" tvg-logo="https://tb.zbds.top/logo/兵团五师双河影.png" group-title="纪录频道", 兵团五师双河影
-https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
 #EXTINF:-1 tvg-name="夹江新闻综合" tvg-id="夹江新闻综合" tvg-logo="https://tb.zbds.top/logo/夹江新闻综合.png" group-title="地方频道", 夹江新闻综合
 http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsicd
 #EXTINF:-1 tvg-name="旺苍新闻综合" tvg-id="旺苍新闻综合" tvg-logo="https://tb.zbds.top/logo/旺苍新闻综合.png" group-title="地方频道", 旺苍新闻综合
 http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
+#EXTINF:-1 tvg-name="睢宁综合" tvg-id="睢宁综合" tvg-logo="https://tb.zbds.top/logo/睢宁综合.png" group-title="地方频道", 睢宁综合
+https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn@HD" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="Movies",CCTV-6 HD (1080p)
+http://69.30.245.50/live/cctv6.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-id="CCTV-5+" tvg-logo="https://tb.zbds.top/logo/CCTV5+.png" group-title="央视频道", CCTV5+
+http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0

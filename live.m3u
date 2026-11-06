@@ -209,6 +209,8 @@ http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed?
 http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 #EXTINF:-1 tvg-name="广西国际" tvg-id="广西国际" tvg-logo="https://tb.zbds.top/logo/广西国际.png" group-title="地方频道", 广西国际
 https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
+#EXTINF:-1 tvg-name="广西综艺旅游" tvg-id="广西综艺旅游" tvg-logo="https://tb.zbds.top/logo/广西综艺旅游.png" group-title="地方频道", 广西综艺旅游
+http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-name="新昌生活" tvg-id="新昌生活" tvg-logo="https://tb.zbds.top/logo/新昌生活.png" group-title="地方频道", 新昌生活
 http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 #EXTINF:-1 tvg-name="庆元综合" tvg-id="庆元新闻综合" tvg-logo="https://tb.zbds.top/logo/庆元综合.png" group-title="地方频道", 庆元综合
@@ -1139,8 +1141,6 @@ http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 #EXTINF:-1 tvg-id="XinjiangTV8.cn@SD" tvg-logo="https://i.imgur.com/JJw1Ndc.png" group-title="Undefined",Xinjiang TV 8
 http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
-#EXTINF:-1 tvg-id="XizangTVChinese.cn@SD" tvg-logo="https://i.imgur.com/V0v3ST5.png" group-title="Undefined",Xizang TV Chinese
-https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 #EXTINF:-1 tvg-id="ZhejiangInternationalChannel.cn@SD" tvg-logo="https://i.imgur.com/XOL1Hph.png" group-title="Undefined",Zhejiang International Channel
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 #EXTINF:-1 tvg-id="XizangTVTibetan.cn@SD" tvg-logo="https://i.imgur.com/NtvfnVV.png" group-title="Undefined",Xizang TV Tibetan
